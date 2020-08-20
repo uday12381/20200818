@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'intro',
     'mycontacts',
     'blogs',
+    'wcount',
 ]
 
 MIDDLEWARE = [
